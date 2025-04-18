@@ -16,6 +16,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://t.me/M_Hajialirezaei">
+    <img src="https://img.shields.io/badge/Telegram?logo=linkedin&style=for-the-badge" alt="Telegram">
+  </a>
+
 ---
 
 ## 🧠 Tech Stack
