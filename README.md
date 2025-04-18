@@ -14,12 +14,13 @@
   <a href="mailto:m.a.hajialirezaei05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
+
+  <a href="https://t.me/M_Hajialirezaei">
+  <img src="[https://img.shields.io/badge/Telegram?logo=linkedin&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw3eiGJRwae4mebdqyIA2scX&ust=1745054098494000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjLsKCf4YwDFQAAAAAdAAAAABAR)" alt="Telegram">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://t.me/M_Hajialirezaei">
-    <img src="https://img.shields.io/badge/Telegram?logo=linkedin&style=for-the-badge" alt="Telegram">
-  </a>
+
 
 ---
 
