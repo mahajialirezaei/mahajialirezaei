@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   <!-- در صورت تمایل، ایمیل خود را در لینک زیر جایگزین کنید -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:m.a.hajialirezaei05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
 </p>
