@@ -16,7 +16,15 @@
   </a>
 
   <a href="https://t.me/M_Hajialirezaei">
-  <img src="[https://img.shields.io/badge/Telegram?logo=linkedin&style=for-the-badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw3eiGJRwae4mebdqyIA2scX&ust=1745054098494000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjLsKCf4YwDFQAAAAAdAAAAABAR)" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+
+  <a href="https://t.me/M_Hajialirezaei">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+
+  <a href="https://www.instagram.com/mohammad_h_a05/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
