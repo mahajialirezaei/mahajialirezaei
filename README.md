@@ -33,6 +33,7 @@
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 **Mobile Development**  
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
