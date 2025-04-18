@@ -10,13 +10,9 @@
   <a href="https://linkedin.com/in/mohammad-amin-haji-alirezaei-66522a2aa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <!-- در صورت تمایل، ایمیل خود را در لینک زیر جایگزین کنید -->
+
   <a href="mailto:m.a.hajialirezaei05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
-  </a>
-
-  <a href="https://t.me/M_Hajialirezaei">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 
   <a href="https://t.me/M_Hajialirezaei">
