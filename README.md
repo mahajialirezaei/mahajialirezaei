@@ -25,25 +25,28 @@
 </p>
 
 
-
 ---
 
 ## 🧠 Tech Stack
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
 ![C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 **Mobile Development**  
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
 
 **Machine Learning / Data Science**  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
 
 ---
 
