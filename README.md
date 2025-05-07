@@ -3,7 +3,7 @@
 <h1 align="center">Hello, World! I'm Mohammad Amin Haji Alirezaei 👋</h1>
 
 <p align="center">
-  Bachelor's Student at KNTU | Android Developer | Machine Learning Enthusiast | Teaching Assistant
+  Bachelor's Student at KNTU | Machine Learning Enthusiast | Teaching Assistant
 </p>
 
 <p align="center">
