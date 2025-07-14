@@ -32,6 +32,7 @@ I'm a Computer Engineering student at KNTU and a Teaching Assistant with a passi
       <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat"/>
       <img src="https://img.shields.io/badge/-Java-007396?logo=java&style=flat"/>
       <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat"/>
+      <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&style=flat"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&style=flat"/>
